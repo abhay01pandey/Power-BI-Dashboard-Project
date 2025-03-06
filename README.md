@@ -30,3 +30,5 @@ Top Performing State:  Maharashta
 Most Popular Category: Clothing
 
 Most Used Payment Method: Cash On Delivery(44%)
+
+
