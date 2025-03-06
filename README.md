@@ -14,3 +14,20 @@ Customer Insights: Provides information about the storeâ€™s customers, like whoâ
 Sales Trends: Tracks sales patterns over time, helping the owner see busy periods, slowdowns, or trends that can inform future decisions.
 
 Performance Metrics: Keeps an eye on important numbers like conversion rates, average order value, and customer loyalty, helping the owner measure business success.
+
+# Project Highlights
+
+Metric           Value
+
+Sum of Amount    438k
+
+Sum of Profit    36.96k
+
+Sum of Quantity  5615
+
+
+Top Performing State:  Maharashta
+
+Most Popular Category: Clothing
+
+Most Used Payment Method: Cash On Delivery(44%)
