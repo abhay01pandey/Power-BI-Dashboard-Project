@@ -25,7 +25,7 @@ Sum of Profit:   36.96k
 Sum of Quantity:  5615
 
 
-Top Performing State:  Maharashta
+Top Performing State:  Maharashtra
 
 Most Popular Category: Clothing
 
