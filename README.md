@@ -16,14 +16,13 @@ Sales Trends: Tracks sales patterns over time, helping the owner see busy period
 Performance Metrics: Keeps an eye on important numbers like conversion rates, average order value, and customer loyalty, helping the owner measure business success.
 
 # Project Highlights
+        
 
-Metric           Value
+Sum of Amount:    438k
 
-Sum of Amount    438k
+Sum of Profit:   36.96k
 
-Sum of Profit    36.96k
-
-Sum of Quantity  5615
+Sum of Quantity:  5615
 
 
 Top Performing State:  Maharashta
